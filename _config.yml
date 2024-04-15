@@ -1,5 +1,0 @@
-title: Cooler Website
-email: bernave.beltran925@gmail.com
-description: A cooler website
-source: "Cooler.exe"  # Defines the source directory for your Jekyll files (current directory by default)
-destination: "Cooler.exe"  # Defines the destination directory for generated static files
